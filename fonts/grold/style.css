@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'Grold';
+  src: local('Grold Regular'), local('Grold-Regular'),
+  url('https://cdn.jsdelivr.net/gh/zzzoryn/pp-images@master/fonts/grold/Grold-Regular.woff2') format('woff2'),
+  url('https://cdn.jsdelivr.net/gh/zzzoryn/pp-images@master/fonts/grold/Grold-Regular.woff') format('woff'),
+  url('https://cdn.jsdelivr.net/gh/zzzoryn/pp-images@master/fonts/grold/Grold-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
