@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'SamsungOne 500';
+  src: url('https://cdn.jsdelivr.net/gh/zzzoryn/pp-images@master/fonts/samsung/SamsungOne-500.woff2') format('woff2'),
+  url('https://cdn.jsdelivr.net/gh/zzzoryn/pp-images@master/fonts/samsung/SamsungOne-500.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
